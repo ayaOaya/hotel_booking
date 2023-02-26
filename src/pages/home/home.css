@@ -1,5 +1,6 @@
 .homeContainer{
-    margin-top: 50px;
+    padding-top: 50px;
+    background-color: rgba(254, 244, 232, 0.41);
     display: flex;
     flex-direction: column;
     align-items: center;
